@@ -1,0 +1,25 @@
+From 78cdaa9af0805de7238a8fb4bf44c84a0183ef34 Mon Sep 17 00:00:00 2001
+From: Anna Rackovych <rackovych.anna@gmail.com>
+Date: Mon, 8 Sep 2025 12:47:53 +0300
+Subject: [PATCH] modified firstFile.txt git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 4083766..708fc2f 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,6 +1,6 @@
+ line1
+-line2
+-line3
++line22
++line33
+ line4
+ line5
+ line6
+-- 
+2.40.1
+
